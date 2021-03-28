@@ -16,6 +16,10 @@ I'm a random guy on the internet. Currently developing apps for mobile platform.
 - Twitter [@Lakr233](https://twitter.com/Lakr233)
 - Email [Follow Up Here](mailto:master@233owo.com)
 
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@Lakr233?theme=gelbooru)
+
 ## 👀 Some cool stuff to look into 
 
 Have a look at pinned projects below.
