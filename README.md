@@ -11,6 +11,8 @@ I'm a random guy on the internet. Currently developing apps for mobile platform.
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / TypeScript / JavaScript
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co2333&layout=compact"/>
+
 ## 📮 How to reach me
 
 - Twitter [@Lakr233](https://twitter.com/Lakr233)
