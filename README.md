@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Co2333&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lakr233&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 I'm a random guy on the internet. Currently developing apps for mobile platform.
 
@@ -11,7 +11,7 @@ I'm a random guy on the internet. Currently developing apps for mobile platform.
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / TypeScript / JavaScript
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co2333&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakr233&layout=compact"/>
 
 ## 📮 How to reach me
 
