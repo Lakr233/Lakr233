@@ -16,7 +16,7 @@ I'm a random guy on the internet. Currently developing apps for mobile platform.
 ## 📮 How to reach me
 
 - Twitter [@Lakr233](https://twitter.com/Lakr233)
-- Email [Follow Up Here](mailto:master@233owo.com)
+- Email [Follow Up Here](mailto:launchctl@outlook.com)
 
 ## Magic Number
 
