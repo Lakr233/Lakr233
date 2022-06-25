@@ -4,6 +4,8 @@
 
 I'm a random guy on the internet. Currently developing apps for mobile platform.
 
+> Imo, you do the open source, you let it go.
+
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
 
 ## 💬 Worked language for me
