@@ -8,6 +8,8 @@ I'm a random guy on the internet. Currently developing apps for mobile platform.
 
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
 
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
+
 ## 💬 Worked language for me
 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Swift / Objective-C
