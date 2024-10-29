@@ -1,18 +1,19 @@
 # Hello World
 
-I'm a random guy on the internet. Currently developing apps for mobile platform.
+- Founder & Developer & Designer @ [OwnGoalStudio](https://github.com/OwnGoalStudio)
+- Indie Hacker @ Jailbreak Infra
+- Senior Software Developer @ Mobile Platforms
+- Junior Game Developer
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lakr233&theme=vue&show_icons=true">
+## 📮 How to Reach Me
 
-## 📮 How to reach me
-
-- Twitter [@Lakr233](https://twitter.com/Lakr233)
-- Email [Follow Up Here](mailto:launchctl@outlook.com)
+- Twitter: [@Lakr233](https://twitter.com/Lakr233)
+- Email: [Follow Up Here](mailto:launchctl@outlook.com)
 
 ## Magic Number
 
 ![Visited By](https://count.getloli.com/get/@Lakr233?theme=gelbooru)
 
-## 👀 Some cool stuff to look into 
+## 👀 Some Cool Stuff to Explore
 
-Have a look at pinned projects below.
+Feel free to check out the pinned projects below, words are not enough.
