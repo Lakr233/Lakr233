@@ -1,6 +1,6 @@
 # Hello World
 
-- Founder & Developer & Designer @ Own Goal Studio
+- Founder & Developer & Designer [@OwnGoalStudio](https://github.com/OwnGoalStudio)
 - Indie Hacker
 - Senior Software Developer @ Mobile Platforms
 - Junior Game Developer
