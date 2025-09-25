@@ -1,7 +1,7 @@
 # Hello World
 
 - Developer & Designer & Product [@FlowDown](https://flowdown.ai)
-- Indie Hacker - ~Previous~ Some How Again [@OwnGoalStudio](https://github.com/OwnGoalStudio)
+- Indie Hacker - ~Previous~ [@OwnGoalStudio](https://github.com/OwnGoalStudio)
 - Senior Software Developer @ Mobile Platforms
 - Junior Game Developer
 
