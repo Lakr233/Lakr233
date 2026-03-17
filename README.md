@@ -14,6 +14,13 @@
 
 ![Visited By](https://count.getloli.com/get/@Lakr233?theme=gelbooru)
 
+## 🤖 Agent Code Navigation
+
+- [Agent Code Navigation](./AGENTS.md)
+- Includes only MIT / Apache / BSD / Unlicense / WTFPL style repositories
+- Lists each repo's license and what part is copy-friendly for agents
+- GPL / AGPL / LGPL / no-license repositories are intentionally excluded
+
 ## 👀 Some Cool Stuff to Explore
 
-Feel free to check out the pinned projects below, words are not enough.
+Feel free to check out the agent navigation above, or browse the pinned projects below.
