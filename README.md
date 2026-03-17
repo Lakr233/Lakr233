@@ -14,6 +14,12 @@
 
 ![Visited By](https://count.getloli.com/get/@Lakr233?theme=gelbooru)
 
+## 🤖 Agent Code Navigation
+
+- [Agent Code Navigation](./AGENTS.md)
+- A curated index of public repositories under permissive licenses
+- Shows each repository's license and the parts most useful for agents to study or reuse
+
 ## 👀 Some Cool Stuff to Explore
 
-Feel free to check out the pinned projects below, words are not enough.
+Feel free to open the agent navigation above, or browse the pinned projects below.
