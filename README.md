@@ -17,10 +17,9 @@
 ## 🤖 Agent Code Navigation
 
 - [Agent Code Navigation](./AGENTS.md)
-- Includes only MIT / Apache / BSD / Unlicense / WTFPL style repositories
-- Lists each repo's license and what part is copy-friendly for agents
-- GPL / AGPL / LGPL / no-license repositories are intentionally excluded
+- A curated index of public repositories under permissive licenses
+- Shows each repository's license and the parts most useful for agents to study or reuse
 
 ## 👀 Some Cool Stuff to Explore
 
-Feel free to check out the agent navigation above, or browse the pinned projects below.
+Feel free to open the agent navigation above, or browse the pinned projects below.
